@@ -1,0 +1,16 @@
+div{
+    background-color: azure;
+    margin: 50px 50px 50px 50px;
+    padding: 20px 20px 20px 20px;
+}
+h1{
+    text-align: center;
+}
+
+.para{
+    color: brown;
+    text-align: end;
+}
+.author{
+    color: darkblue;
+}
